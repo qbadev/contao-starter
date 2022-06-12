@@ -1,0 +1,22 @@
+{
+    "name": "qbadev/contao-starter",
+    "authors": [
+        {
+            "name": "Kuba",
+            "email": "kuba@qbadev.co.pl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "terminal42/contao-easy_themes": "^3.0",
+        "heimseiten/contao-dark-mode-backend-bundle": "^1.3",
+        "madeyourday/contao-rocksolid-custom-elements": "^2.3",
+        "trilobit-gmbh/contao-constants-bundle": "^1.3",
+        "trilobit-gmbh/contao-socialmedia-bundle": "^1.0",
+        "netzmacht/contao-font-awesome-inserttag": "^2.2",
+        "psi/boxes4ward": "^2.0",
+        "terminal42/contao-ajaxform": "^1.1",
+        "codefog/contao-cookiebar": "^2.4",
+        "contao-bootstrap/bundle": "^2.1"
+    }
+}
