@@ -1,5 +1,6 @@
 {
     "name": "qbadev/contao-starter",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Kuba",
